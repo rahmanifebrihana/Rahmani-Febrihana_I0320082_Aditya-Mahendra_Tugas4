@@ -10,3 +10,4 @@ if usia <= p :
 
 else :
     print("Anda tidak memenuhi usia")
+
